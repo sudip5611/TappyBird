@@ -1,4 +1,4 @@
-Tappy Bird
+#Tappy Bird
 
 A Flappy Bird-inspired game created with LÖVE (Lua).
 
